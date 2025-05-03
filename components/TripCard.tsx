@@ -20,7 +20,7 @@ const TripCard = ({
       className="trip-card"
       to={
         path.pathname === "/" || path.pathname.startsWith("/travel")
-          ? `/travel/${id} `
+          ? `/trips/${id} `
           : `/trips/${id}`
       }
     >
