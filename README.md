@@ -2031,10 +2031,3 @@ export default Dashboard;
 ```
 
 </details>
-
-## <a name="links">🔗 Assets</a>
-
-- Assets used in the project can be found [here](https://jsm.dev/tourvisto-kit)
-  <a href="https://jsm.dev/tourvisto-kit" target="_blank">
-  <img src="public/assets/images/readme-video-kit.jpg" alt="Video Kit Banner">
-  </a>
